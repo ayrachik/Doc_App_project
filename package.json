@@ -9,7 +9,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "prod": "ng build --prod --output-hashing=all --base-href https://ayrachik.github.io/necktie-doctor-app/",
+    "prod": "ng build --configuration=production --output-hashing=all",
     "e2e": "ng e2e"
   },
   "private": true,
