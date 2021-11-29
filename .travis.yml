@@ -12,6 +12,6 @@ deploy:
   on:
     branch: main
   token:
-    secure: ""
+    secure: $FIREBASE_TOKEN
 notifications:
   email: false
