@@ -4,8 +4,8 @@ node_js:
 before_script:
   - npm install
 script: npm run prod
-before_deploy:
-  - cp dist/necktie-doctor-app/index.html dist/tribe-front/404.html
+# before_deploy:
+#   - cp dist/necktie-doctor-app/index.html dist/tribe-front/404.html
 deploy:
   local-dir: dist/necktie-doctor-app
   provider: pages
