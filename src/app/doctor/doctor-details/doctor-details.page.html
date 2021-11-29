@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/doctor"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Doctor details</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col size="12" size-sm="8" offset-sm="2" class="ion-text-center">
+        <ion-spinner class="ion-margin-top" color="primary" *ngIf="isLoading"></ion-spinner>
+        <ion-card *ngIf="!isLoading || doctor">
+          <ion-card-title class="ion-margin-top">{{ doctor.name }}</ion-card-title>
+          <ion-card-subtitle>{{ doctor.address.district }}</ion-card-subtitle>
+          <ion-card-subtitle>{{ doctor.address.line_1 }}</ion-card-subtitle>
+          <ion-card-subtitle>{{ doctor.address.line_2 }}</ion-card-subtitle>
+          <ion-card-content>
+            <ion-list>
+              <ion-item *ngFor="let hour of doctor.opening_hours">
+                <ion-icon class="ion-text-success" *ngIf="!hour.isClosed" name="checkmark-circle-outline" slot="start">
+                </ion-icon>
+                <ion-icon class="ion-text-danger" *ngIf="hour.isClosed" name="close-circle-outline" slot="start">
+                </ion-icon>
+                <ion-label>{{ hour.day }} {{ hour.start }} - {{ hour.end }}
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row *ngIf="!isLoading">
+      <ion-col size="12" size-sm="8" offset-sm="2" class="ion-text-center">
+        <ion-button color="primary" (click)="book(doctor)">
+          BOOK
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

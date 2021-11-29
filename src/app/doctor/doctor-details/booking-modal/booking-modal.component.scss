@@ -1,0 +1,17 @@
+.validation-errors {
+  font-size: small;
+  color: var(--ion-color-danger, #f1453d);
+}
+
+/* These are necessary to make the underline red */
+ion-item.invalid {
+  --highlight-background: var(--ion-color-danger, #f1453d);
+}
+
+ion-item {
+  --highlight-color-invalid: var(--ion-color-primary);
+}
+
+.error-message {
+  margin-top: 0.5rem;
+}
