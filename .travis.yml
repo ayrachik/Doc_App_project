@@ -4,14 +4,14 @@ node_js:
 before_script:
   - npm install
 script: npm run prod
-before_deploy:
-   - cp www/index.html www/404.html
 deploy:
   local-dir: www
-  provider: pages
+  provider: firebase
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   on:
     branch: main
+  token:
+    secure: ""
 notifications:
   email: false
