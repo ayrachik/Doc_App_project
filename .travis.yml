@@ -5,7 +5,7 @@ before_script:
   - npm install
 script: npm run prod
 deploy:
-  local-dir: www
+  # local-dir: www
   provider: firebase
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
