@@ -1,0 +1,7 @@
+{
+  "name": "necktie-doctor-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
