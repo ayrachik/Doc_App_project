@@ -9,13 +9,13 @@ Frameworks used: **Angular** and **Ionic**
 
 **a. What is the purpose/importance of the package?**
 
--Angular:
+**-Angular:**
 
 
 -Modern and popular JS framework
 
 
--Ionic:
+**-Ionic:**
 
 
 -Nice and responsive UI component(use of list, cards, inputs, buttons, dialogues, toasters...)
