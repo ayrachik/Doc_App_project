@@ -96,7 +96,7 @@ When calling the API POST /bookging, no id nor status were required on the body 
 **b. Any other assumptions and opinions you have taken throughout the assessments?**
 
 
--I tried to make an aesthetic, useful, simple and intuitive user interface reducing the steps to make a booking.
+-I tried to make an aesthetic, useful, simple and intuitive user interface reducing the steps to make a booking to improve the conversion rate.
 
 
 -For booking logic, the booking taken is for the soonest day possible for the hour asked.
