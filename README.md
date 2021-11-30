@@ -25,6 +25,9 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 ![Booking form ](./images/bookingForm.png)
 ![Booking confirmation](./images/bookingConfirm.png). 
 
+
+<h2>Answers to questions of the assessment</h2>
+
 <ol>
 <li>Choice of package**</li>
 
@@ -81,7 +84,7 @@ Alternative for UI component:*
 -Bootstrap +bootswatch theme: Materia:  [Bootstrap link](https://bootswatch.com/materia/)
 
 
-<li>2.Potential Improvement</li>
+<li>Potential Improvement</li>
 
 
 1/Doctor's filter
@@ -95,12 +98,12 @@ Alternative for UI component:*
 
 4/Rating for doctors
 
-<li>3.Production improvement</li>
+<li>Production improvement</li>
 
 
 CI scripts are located on the travis.yml file.
 
-<li>4.Assumtions</li>
+<li>Assumtions</li>
 
 **a.Any assumptions you have made when you designed the data model and API
 schema?**
