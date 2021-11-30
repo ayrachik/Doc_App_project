@@ -1,6 +1,6 @@
 # necktie-doctor-app
 
-![Necktie-doctor-app](favicon.ico)
+![Necktie-doctor-app](./images/favicon.ico)
 
 
 <h2>Description of the project</h2>
