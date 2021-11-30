@@ -1,4 +1,14 @@
 # necktie-doctor-app
+**Description of the project**
+The project is a Doctor Booking Page web application for patients to schedule appointments with doctors.
+
+**Specification of the app**
+
+-Users can see a doctor's profile
+
+-Users can see a doctor's availability
+
+-Users can make a booking
 
 [Application link](https://necktie-doctor-app.web.app/doctor)
 
