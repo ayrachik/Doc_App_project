@@ -12,6 +12,8 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 
 
 <h2>App link</h2>
+
+
 [Click here to visit necktie-doctor-app](https://necktie-doctor-app.web.app/doctor)
 
 
