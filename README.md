@@ -27,7 +27,7 @@ Frameworks used: **Angular** and **Ionic**
 **-Ionic:**
 
 
--Nice and responsive UI component(use of list, cards, inputs, buttons, dialogues, toasters...)
+-Nice and responsive UI component(use of lists, cards, inputs, buttons, dialogues, toasters...)
 
 **b. What are the benefits & drawbacks associated with that choice?**
 
