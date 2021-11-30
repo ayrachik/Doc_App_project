@@ -10,6 +10,14 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 
 -Users can make a booking
 
+<h2>Pictures of different steps of the app</h2>
+
+
+![Home page](./images/hp.png)
+![Doctor details](./images/details.png). 
+![Booking form ](./images/bookingForm.png)
+![Booking confirmation](./images/bookingConfirm.png).
+
 
 <h2>App link</h2>
 
@@ -17,13 +25,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 [Click here to visit necktie-doctor-app](https://necktie-doctor-app.web.app/doctor)
 
 
-<h2>Pictures of different steps of the app</h2>
-
-
-![Home page](./images/hp.png)
-![Doctor details](./images/details.png). 
-![Booking form ](./images/bookingForm.png)
-![Booking confirmation](./images/bookingConfirm.png). 
+ 
 
 
 <h2>Answers to questions of the assessment</h2>
