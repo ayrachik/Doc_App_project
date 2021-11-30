@@ -4,8 +4,8 @@
 
 ![Home page](./images/hp%20.png)
 ![Doctor details](./images/slots.png)
-![Booking form ](./images/boockingSetting.png)
-![Booking confirmation](./images/BookingConfirm.png)
+![Booking form ](./images/bookingSetting.png)
+![Booking confirmation](./images/BoockingConfirm.png)
 
 **1.Choice of package**
 
