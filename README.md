@@ -2,6 +2,8 @@
 
 [Application link](https://necktie-doctor-app.web.app/doctor)
 
+
+*Pictures of diferent steps of the app**
 ![Home page](./images/hp%20.png)
 ![Doctor details](./images/slots.png). 
 ![Booking form ](./images/bookingSetting.png)
