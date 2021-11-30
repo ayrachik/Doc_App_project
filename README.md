@@ -29,7 +29,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 <h2>Answers to questions of the assessment</h2>
 
 <ol>
-<li>Choice of package**</li>
+<li>Choice of package</li>
 
 
 Frameworks used: **Angular** and **Ionic**
