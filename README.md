@@ -14,7 +14,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 
 <center>
 ![Demonstration](./images/screen.gif)
-</p>
+</center>
 
 <h2>App link</h2>
 
