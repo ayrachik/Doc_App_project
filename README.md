@@ -86,6 +86,7 @@ Alternative for UI component:
 CI scripts are located on the travis.yml file.
 
 **4.Assumtions**
+
 **a.Any assumptions you have made when you designed the data model and API
 schema?**
 
