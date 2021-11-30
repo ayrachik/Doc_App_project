@@ -13,6 +13,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 <h2>Pictures of different steps of the app</h2>
 
 
+![Demonstration](./images/screen.gif)
 ![Home page](./images/hp.png)
 ![Doctor details](./images/details.png). 
 ![Booking form ](./images/bookingForm.png)
