@@ -1,4 +1,8 @@
 # necktie-doctor-app
+
+![Necktie-doctor-app](favicon.ico)
+
+
 <h2>Description of the project</h2>
 The project is a Doctor Booking Page web application for patients to schedule appointments with doctors.
 
