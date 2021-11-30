@@ -6,10 +6,10 @@
 **Pictures of diferent steps of the app**
 
 
-![Home page](./images/hp%20.png)
-![Doctor details](./images/slots.png). 
-![Booking form ](./images/bookingSetting.png)
-![Booking confirmation](./images/boockingConfirm.png). 
+![Home page](./images/hp.png)
+![Doctor details](./images/details.png). 
+![Booking form ](./images/bookingForm.png)
+![Booking confirmation](./images/bookingConfirm.png). 
 
 **1.Choice of package**
 
