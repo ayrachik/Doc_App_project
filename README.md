@@ -8,6 +8,8 @@ Frameworks used: **Angular** and **Ionic**
 **a. What's the purpose/importance of the package?**
 
 -Angular:
+
+
 -Modern and popular JS framework
 
 
@@ -17,6 +19,8 @@ Frameworks used: **Angular** and **Ionic**
 **b. What are the benefits & drawbacks associated with that choice?**
 
 -Angular
+
+
 -Improved Speed and Performance
 -Programming style
 
