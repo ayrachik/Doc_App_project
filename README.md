@@ -25,7 +25,8 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 ![Booking form ](./images/bookingForm.png)
 ![Booking confirmation](./images/bookingConfirm.png). 
 
-<h3>1.Choice of package**</h3>
+<ol>
+<li>Choice of package**</li>
 
 
 Frameworks used: **Angular** and **Ionic**
@@ -80,7 +81,7 @@ Alternative for UI component:*
 -Bootstrap +bootswatch theme: Materia:  [Bootstrap link](https://bootswatch.com/materia/)
 
 
-<h3>2.Potential Improvement</h3>
+<li>2.Potential Improvement</li>
 
 
 1/Doctor's filter
@@ -94,12 +95,12 @@ Alternative for UI component:*
 
 4/Rating for doctors
 
-<h3>3.Production improvement</h3>
+<li>3.Production improvement</li>
 
 
 CI scripts are located on the travis.yml file.
 
-<h3>4.Assumtions</h3>
+<li>4.Assumtions</li>
 
 **a.Any assumptions you have made when you designed the data model and API
 schema?**
