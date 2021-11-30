@@ -5,13 +5,11 @@ before_script:
   - npm install
 script: npm run prod
 deploy:
-  # local-dir: www
-  provider: firebase
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  on:
-    branch: main
+  provider: firebase
   token:
     secure: $FIREBASE_TOKEN
+  on:
+    branch: main
 notifications:
   email: false
