@@ -2,6 +2,11 @@
 
 [Application link](https://necktie-doctor-app.web.app/doctor)
 
+![Home page](./images/hp.png)
+![Doctor details](./images/slots.png)
+![Booking form ](./images/bookingSetting.png)
+![Booking confirmation](./images/BookingConfirm.png)
+
 **1.Choice of package**
 
 
