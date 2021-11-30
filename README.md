@@ -10,14 +10,10 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 
 -Users can make a booking
 
-<h2>Pictures of different steps of the app</h2>
+<h2>Demonstration of different steps of the app</h2>
 
 
 ![Demonstration](./images/screen.gif)
-![Home page](./images/hp.png)
-![Doctor details](./images/details.png). 
-![Booking form ](./images/bookingForm.png)
-![Booking confirmation](./images/bookingConfirm.png).
 
 
 <h2>App link</h2>
