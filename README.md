@@ -1,6 +1,6 @@
 # necktie-doctor-app
 
-[Application link](https://ayrachik.github.io/necktie-doctor-app/)
+[Application link](https://necktie-doctor-app.web.app/doctor)
 
 **1.Choice of package**
 
