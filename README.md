@@ -46,7 +46,7 @@ Frameworks used: **Angular** and **Ionic**
 -Follow the material design recommendations
 
 
--Coss platfrom and creates PWA natively
+-Cross platfrom and creates PWA natively
 
 
 -Integrates Angular natively
