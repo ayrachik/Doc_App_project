@@ -7,7 +7,7 @@
 
 Frameworks used: **Angular** and **Ionic**
 
-**a. What's the purpose/importance of the package?**
+**a. What is the purpose/importance of the package?**
 
 -Angular:
 
