@@ -22,7 +22,7 @@ Frameworks used: **Angular** and **Ionic**
 
 **b. What are the benefits & drawbacks associated with that choice?**
 
--Angular
+**-Angular**
 
 
 -Improved Speed and Performance
@@ -31,7 +31,7 @@ Frameworks used: **Angular** and **Ionic**
 -Programming style
 
 
--Ionic
+**-Ionic**
 
 
 -Follow the material design recommendations
