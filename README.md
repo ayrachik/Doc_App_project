@@ -3,7 +3,7 @@
 [Application link](https://necktie-doctor-app.web.app/doctor)
 
 
-**Pictures of diferent steps of the app**
+**Pictures of different steps of the app:**
 
 
 ![Home page](./images/hp.png)
