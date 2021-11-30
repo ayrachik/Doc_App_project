@@ -52,7 +52,7 @@ Alternative for UI component:
 -Angular material: Not responsive: [Angular material link](https://material.angular.io/components/categories)
 
 
--Bootstrap +bootswatch theme: Materia:  [Bootstrap link](https://bootswatch.com/materia/)
+-Bootstrap +bootswatch theme: Material:  [Bootstrap link](https://bootswatch.com/materia/)
 
 
 **2.Potential Improvement**
