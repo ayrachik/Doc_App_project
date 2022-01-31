@@ -1,7 +1,7 @@
 
-![Necktie-doctor-app](./images/favicon.ico)
 
-# necktie-doctor-app
+
+# Doctor App Project
 
 
 
