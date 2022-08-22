@@ -31,7 +31,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
  
 
 
-<h2>Answers to questions of the assessment</h2>
+<h2>Details about the project</h2>
 
 <ol>
 <li>Choice of package</li>
