@@ -107,24 +107,3 @@ Alternative for UI component:*
 
 
 CI scripts are located on the travis.yml file.
-
-<li>Assumtions</li>
-
-**a.Any assumptions you have made when you designed the data model and API
-schema?**
-
-
-When calling the API POST /bookging, no id nor status were required on the body of the request.
-
-**b. Any other assumptions and opinions you have taken throughout the assessments?**
-
-
--I tried to make an aesthetic, useful, simple and intuitive user interface reducing the steps to make a booking to improve the conversion rate.
-
-
--For booking logic, the booking taken is for the soonest day possible for the hour asked.
-
-
--Many icons are added to show the loading phase, showing confirmation, showing errors...
-
--**For amelioration,** I suggest adding the authentication features so that the user can manage his bookings.
