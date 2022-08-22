@@ -39,7 +39,7 @@ The project is a Doctor Booking Page web application for patients to schedule ap
 
 Frameworks used: **Angular** and **Ionic**
 
-<h4>a. What is the purpose/importance of the package?</h4>
+<h4>a. Importance of the package?</h4>
 
 **-Angular:**
 
@@ -52,7 +52,7 @@ Frameworks used: **Angular** and **Ionic**
 
 -Nice and responsive UI component(use of lists, cards, inputs, buttons, dialogues, toasters...)
 
-<h4>b. What are the benefits & drawbacks associated with that choice?</h4>
+<h4>b. Benefits & drawbacks associated with that choice?</h4>
 
 **-Angular:**
 
