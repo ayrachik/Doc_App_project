@@ -74,7 +74,7 @@ Frameworks used: **Angular** and **Ionic**
 
 -Integrates Angular natively
 
-<h4>c. What are the assumptions underlying that choice?</h4>
+<h4>c. Assumptions underlying that choice?</h4>
 
 
 Users will use this app on their smartphones and tablets.
