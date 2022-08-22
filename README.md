@@ -103,7 +103,3 @@ Alternative for UI component:*
 
 4/Rating for doctors
 
-<li>Production improvement</li>
-
-
-CI scripts are located on the travis.yml file.
