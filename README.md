@@ -5,7 +5,7 @@
 
 
 
-<h2>Description of the project</h2>
+<h2>Description of the project </h2>
 The project is a Doctor Booking Page web application for patients to schedule appointments with doctors.
 
 <h2>Specification of the app</h2>
